@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham-tahiliani
-- 👀 I’m a Flutter Development
+- 👀 I’m a Flutter Developer
 - 🌱 I’m currently learning DSA through neetcode150
 - 💞️ I’m looking for opportunities as a developer. 
 - 📫 How to reach me shubhamtahiliani1999@gmail.com
