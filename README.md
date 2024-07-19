@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubham-tahiliani
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java, Flutter
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m a Flutter Development
+- 🌱 I’m currently learning DSA through neetcode150
+- 💞️ I’m looking for opportunities as a developer. 
 - 📫 How to reach me shubhamtahiliani1999@gmail.com
 
 <!---
